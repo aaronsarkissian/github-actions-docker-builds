@@ -1,0 +1,22 @@
+{
+  "name": "github-actions-docker-builds",
+  "version": "1.0.0",
+  "description": "Compares different github action methods to build docker images",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronsarkissian/github-actions-docker-builds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronsarkissian/github-actions-docker-builds/issues"
+  },
+  "homepage": "https://github.com/aaronsarkissian/github-actions-docker-builds#readme"
+}
